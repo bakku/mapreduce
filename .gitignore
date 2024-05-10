@@ -1,0 +1,6 @@
+# binaries
+cmd/master/master
+cmd/worker/worker
+
+# GoLand
+.idea/
